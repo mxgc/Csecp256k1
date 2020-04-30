@@ -1,0 +1,4 @@
+[submodule "Sources/Csecp256k1"]
+	path = Sources/Csecp256k1
+	url = https://github.com/mxgc/secp256k1.git
+	branch = spm-compat
