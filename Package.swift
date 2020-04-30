@@ -95,7 +95,7 @@ let package = Package(
                 .headerSearchPath("./spm-compat"),
 
                 // disable unnecessary value conversion warnings
-                .unsafeFlags(["-w"]),
+                // .unsafeFlags(["-w"]),
             ]
         ),
 
