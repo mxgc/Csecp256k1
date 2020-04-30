@@ -7,6 +7,6 @@ Add the following to the dependencies in your `Package.swift` and to use simply 
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/mxgc/Csecp256k1.git", from: "0.1.0")
+    .package(url: "https://github.com/mxgc/Csecp256k1.git", from: "0.2.0")
 ]
 ```
