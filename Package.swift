@@ -83,6 +83,7 @@ let package = Package(
             sources: [
                 "src",
                 "contrib",
+                "include",
             ],
             publicHeadersPath: "include",
             cSettings: [
