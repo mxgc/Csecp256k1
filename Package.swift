@@ -25,6 +25,8 @@ let package = Package(
             name: "Csecp256k1",
             path: "Sources/Csecp256k1",
             exclude: [
+                "contrib/travis.sh",
+                
                 "src/asm",
                 "src/java",
 
